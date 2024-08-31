@@ -15,3 +15,10 @@ anyways, here's the entire catalogue of attempts and fails, rich with innovation
 
 
 you'll please sympathise that at one point i had only a bronken ms surface to code on and so was using a mouse to click keys on the 'on-screen' keyborad, incredibly slow painful laborious and paistaking task that resulted in me developing a bad case of "the claw" after many hrs. [see jim carey in liar liar.]
+
+
+#######
+
+2408311323
+
+so this is just an update to say i've tidied up an read a lil jus tto see what's what. it seems tho there's a research paper about reverse engoineering laplace transformed encryptions n stuff, this is neertheless unrelated as yet and is simply a vvery early Python learning exercise where i tried to make a v simple ecrytpiion program absed on XORing two hexcode strings.
